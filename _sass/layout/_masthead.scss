@@ -9,7 +9,9 @@
   height: $masthead-height;
   top: 0;
   width: 100%;
-
+  background-color: lightslategray; // added
+  color: black; // added 
+  border-bottom: 2px solid gray; // added
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
@@ -37,9 +39,7 @@
 }
 
 .masthead__menu {
-  background-color: lightslategray; // added
-  color: white; // added 
-  border-bottom: 2px solid gray; // added
+
   ul {
     margin: 0;
     padding: 0;
