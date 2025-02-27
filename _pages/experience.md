@@ -93,5 +93,4 @@ Certifications
   * Certifications on Java, OCI and Kubernetes (Oracle)
 * Machine Learning & AI
   * Supervised Machine Learning: Regression and Classification (DeepLearning.AI)
-  * Fundamentals of Deep Learning for Computer
-Vision (Nvidia Deep Learning Institute)
+  * Fundamentals of Deep Learning for Computer Vision (Nvidia Deep Learning Institute)
