@@ -1,8 +1,9 @@
 ---
-permalink: /
+layout: archive
 title: "Projects"
+permalink: /projects/
 author_profile: true
-redirect_from: 
+redirect_from:
   - /projects/
   - /projects.html
 ---
@@ -72,7 +73,7 @@ Simple Full Stack Web applications
 
 Undergraduate College course projects (2019 ‑ 2020)
 * Timetable Generator app ‑ Designed logic for generating college timetables. Technologies used include python and flask. [Code](https://github.com/SathvikKP/DBMSProject)
-* Book Store app ‑ Developed a web app using springboot that tracks books purchased and issues notification events. [Code](https://github.com/username/repository)
-* Workshop Organization app ‑ Developed a MEAN app that registers and tracks workshops across different locations. [Code](https://github.com/SathvikKP/Java-MicroServices-Project)
+* Book Store app ‑ Developed a web app using springboot that tracks books purchased and issues notification events. [Code](https://github.com/SathvikKP/Java-MicroServices-Project)
+* Workshop Organization app ‑ Developed a MEAN app that registers and tracks workshops across different locations. [Code](https://github.com/SathvikKP/workshopdetails)
 
 
