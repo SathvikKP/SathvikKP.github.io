@@ -39,7 +39,9 @@
 }
 
 .masthead__menu {
-
+  background-color: lightslategray; // added
+  color: black; // added 
+  border-bottom: 2px solid gray; // added
   ul {
     margin: 0;
     padding: 0;
@@ -53,7 +55,9 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-
+  background-color: lightslategray; // added
+  color: black; // added 
+  border-bottom: 2px solid gray; // added
   &--lg {
     padding-right: 2em;
     font-weight: 700;
