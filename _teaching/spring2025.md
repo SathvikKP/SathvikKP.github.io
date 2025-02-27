@@ -7,11 +7,14 @@ venue: "Georgia Institute of Technology, Department"
 date: Spring 2025
 location: "Atlanta, GA, USA"
 ---
+
 Details
 ======
+
 * Course: Advanced Internet Systems and Application Development
 * Duties includes: Assisting in coursework, managing project groups.
 * Supervisor: Professor Ling Liu. 
+
 <!--
 Heading 1
 ======
