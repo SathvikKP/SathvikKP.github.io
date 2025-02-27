@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate level course"
 permalink: /teaching/spring2025
 venue: "Georgia Institute of Technology, School of Computer Science"
-#date: Spring 2025
+date: 2025-01-01
 location: "Atlanta, GA, USA"
 ---
 
