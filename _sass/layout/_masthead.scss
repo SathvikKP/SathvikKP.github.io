@@ -37,7 +37,9 @@
 }
 
 .masthead__menu {
-
+  background-color: lightslategray; // added
+  color: white; // added 
+  border-bottom: 2px solid gray; // added
   ul {
     margin: 0;
     padding: 0;

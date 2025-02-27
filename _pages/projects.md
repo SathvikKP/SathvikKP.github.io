@@ -4,8 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
-  - /projects/
-  - /projects.html
+  - /resume
 ---
 
 <!-- [My GitHub Project](https://github.com/username/repository) -->

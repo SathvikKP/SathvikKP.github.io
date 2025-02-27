@@ -15,7 +15,7 @@ I am currently working as a Graduate Teaching Assistant at Georgia Tech and I am
 
 Contact Info: 
 ======
-You can contact me on LinkedIn.
+You can contact me on LinkedIn ([Link](https://Linkedin.com/in/SathvikKP)).
 
 My Email: sathvikaithalkpus at gmail dot com
 
