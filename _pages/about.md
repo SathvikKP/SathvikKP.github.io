@@ -9,7 +9,9 @@ redirect_from:
 
 Welcome to my website, I am a Computer Science Master's student at Georgia Institute of Technology. 
 
-My favourite computer science subjects include Data Structures and Algorithms and I really love graphs! I also like Machine Learning concepts.
+I love computer science and mathematics. I love algorithms especially graphs! I also love machine learning concepts!
+
+I am currently working as a Graduate Teaching Assistant at Georgia Tech and I am also working on a project in the domain of Federated Learning.
 
 Contact Info: 
 ======
