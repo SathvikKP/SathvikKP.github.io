@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* 
 * MS, Computer Science, Georgia Institute of Technology, Atlanta, USA (2024 - 2026*)
   * Relevant Coursework: Graduate Algorithms, Machine Learning, Big Data Systems, Deep Learning
   * GPA : 4.0 
@@ -21,7 +21,7 @@ Education
 
 Work experience
 ======
-*  Georgia Institute of Technology, Graduate Teaching Assistant (Atlanta, GA)
+* Georgia Institute of Technology, Graduate Teaching Assistant (Atlanta, GA)
   * Course: Advanced Internet Systems and Application Development
   * Duties includes: Assisting in coursework, managing project groups.
   * Supervisor: Professor Ling Liu. 
