@@ -33,7 +33,7 @@ Work experience
 * Nokia, Summer Co-Op – Optical Networks, Network Infrastructure (Nokia Bell Labs, Murray Hill, New Jersey 
   * Created a generic GUI tool that can connect to any Network element and present the element properties / configuration in an editable tree view.
   * The tool works for any Network element following the NETCONF protocol, and generates, builds the necessary python classes dynamically.  Improves work efficiency by 95% - network admins no longer need to manually build xml or use confusing commandline options to view/change NETCONF compliant device properties.
-  * The tool communicates via NETCONF protocol, and is built with python libraries  ncclient, ydk and PyQt5. It is containerized using docker protocol.
+  * The tool communicates via NETCONF protocol, and is built with python libraries  ncclient, ydk and PyQt5. It is containerized using docker.
   * May 2025 – Aug 2025
 
 
