@@ -13,17 +13,33 @@ redirect_from:
 Education
 ======
 * MS, Computer Science, Georgia Institute of Technology, Atlanta, USA (2024 - 2026*)
-  * Relevant Coursework: Graduate Algorithms, Machine Learning, Big Data Systems, Deep Learning
+  * Relevant Coursework: Graduate Algorithms, Machine Learning, Big Data Systems, Deep Learning, Advanced Internet Systems and Application Development.
   * GPA : 4.0 
+  * Graduate Teaching Assistant (GTA) for the courses Big Data Systems and Analytics (Fall 2025) and Advanced Internet Systems and Application Development (Spring 2025)
 
 * BE, Computer Science and Engineering, M S Ramaiah Institute of Technology, Bangalore, India (2017 ‑ 2021)
   * CGPA: 9.75 / 10
 
 Work experience
 ======
+
+* Georgia Institute of Technology, Graduate Teaching Assistant (Atlanta, GA)
+  * Course: Big Data Systems and Analytics
+  * Duties includes: Assisting in coursework, managing project groups, grading assignments / exams.
+  * Supervisor: Professor Ling Liu. 
+  * Aug 2025 - Dec 2025
+
+
+* Nokia, Summer Co-Op – Optical Networks, Network Infrastructure (Nokia Bell Labs, Murray Hill, New Jersey 
+  * Created a generic GUI tool that can connect to any Network element and present the element properties / configuration in an editable tree view.
+  * The tool works for any Network element following the NETCONF protocol, and generates, builds the necessary python classes dynamically.  Improves work efficiency by 95% - network admins no longer need to manually build xml or use confusing commandline options to view/change NETCONF compliant device properties.
+  * The tool communicates via NETCONF protocol, and is built with python libraries  ncclient, ydk and PyQt5. It is containerized using docker protocol.
+  * May 2025 – Aug 2025
+
+
 * Georgia Institute of Technology, Graduate Teaching Assistant (Atlanta, GA)
   * Course: Advanced Internet Systems and Application Development
-  * Duties includes: Assisting in coursework, managing project groups.
+  * Duties includes: Assisting in coursework, managing project groups, grading exams.
   * Supervisor: Professor Ling Liu. 
   * Jan 2025 - April 2025
 
@@ -54,7 +70,7 @@ Skills
 * Software 
   * Git, Docker, Kubernetes, Linux (Ubuntu and Oracle Linux), Pytorch, Tensorflow, Keras, ELK stack
 * Domains 
-  * Data Structures & Algorithms, Machine Learning, Operating Systems, Database Systems, Big Data Systems, LLMs
+  * Data Structures & Algorithms, Machine Learning, Operating Systems, Database Systems, Big Data Systems, LLMs, Peer to Peer Systems
 * Soft Skills
   * Self‑Motivated, Team Player, Quick Learner, Strong Written and Verbal Communication, Adaptive, Versatile
 
